@@ -1,8 +1,6 @@
-# GuangLun means Nimbus in Chinese ✨
+# HELLO!
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is my personal web repo. 
-
-If you like it, please star it! 🥰
+Here is a primitive personal page.
 
 ## Update and News
 
